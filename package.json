@@ -14,8 +14,8 @@
     "http-errors": "~1.6.2",
     "macaddress": "^0.2.9",
     "markov-text-generator": "^1.0.0",
-    "morgan": "~1.8.0",
-    "pug": "2.0.0-beta11",
+    "morgan": "^1.9.1",
+    "pug": "^2.0.3",
     "random-bool": "^1.0.2"
   },
   "devDependencies": {
